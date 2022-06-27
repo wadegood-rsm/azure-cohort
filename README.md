@@ -1,7 +1,7 @@
 # azure-cohort
 
-This repo contains files that are being used for the Azure cohort.
+This repo contains all files being used by the azure cohort team.
 
 Add your name to the list below.
-    Wade Good
+    - Wade Good
     
