@@ -72,5 +72,6 @@
     <Build Include="Security\cfg.sql" />
     <Build Include="Security\edw.sql" />
     <Build Include="fact_sales_order.sql" />
+    <Build Include="Tables\dim_item.sql" />
   </ItemGroup>
 </Project>

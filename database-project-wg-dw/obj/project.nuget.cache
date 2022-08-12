@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "pCxwq/yF4DIieLeFLcg0qpw6DtelwEmGOmKD7oNyo4ljVE9DMmZ//rLp+IsHKMQso9RUg1jB242NhASCrNqkLg==",
+  "success": false,
+  "projectFilePath": "c:\\Repos\\azure-cohort\\database-project-wg-dw\\database-project-wg-dw.sqlproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETFramework.ReferenceAssemblies. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETFramework.ReferenceAssemblies",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6"
+      ]
+    }
+  ]
+}
