@@ -70,5 +70,6 @@
     <Build Include="Tables\sales_orders.sql" />
     <Build Include="Security\stage.sql" />
     <Build Include="Security\cfg.sql" />
+    <Build Include="Security\edw.sql" />
   </ItemGroup>
 </Project>
