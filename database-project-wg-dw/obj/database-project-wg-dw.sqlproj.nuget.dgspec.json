@@ -1,0 +1,46 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Repos\\azure-cohort\\database-project-wg-dw\\database-project-wg-dw.sqlproj": {}
+  },
+  "projects": {
+    "c:\\Repos\\azure-cohort\\database-project-wg-dw\\database-project-wg-dw.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Repos\\azure-cohort\\database-project-wg-dw\\database-project-wg-dw.sqlproj",
+        "projectName": "database-project-wg-dw",
+        "projectPath": "c:\\Repos\\azure-cohort\\database-project-wg-dw\\database-project-wg-dw.sqlproj",
+        "packagesPath": "C:\\Users\\E078990\\.nuget\\packages\\",
+        "outputPath": "c:\\Repos\\azure-cohort\\database-project-wg-dw\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\E078990\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

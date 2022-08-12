@@ -1,0 +1,64 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6": [
+      "Microsoft.NETFramework.ReferenceAssemblies >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\E078990\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Repos\\azure-cohort\\database-project-wg-dw\\database-project-wg-dw.sqlproj",
+      "projectName": "database-project-wg-dw",
+      "projectPath": "c:\\Repos\\azure-cohort\\database-project-wg-dw\\database-project-wg-dw.sqlproj",
+      "packagesPath": "C:\\Users\\E078990\\.nuget\\packages\\",
+      "outputPath": "c:\\Repos\\azure-cohort\\database-project-wg-dw\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\E078990\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net46"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net46": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net46": {
+        "dependencies": {
+          "Microsoft.NETFramework.ReferenceAssemblies": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        }
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETFramework.ReferenceAssemblies. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETFramework.ReferenceAssemblies",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6"
+      ]
+    }
+  ]
+}
